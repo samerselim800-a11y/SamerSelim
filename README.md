@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
 
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a>
 </p>
 
 ---
@@ -35,11 +32,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🖼️ **Portfolio Website** — React + Tailwind  
-  [🔗 Live Demo](#) | [💻 Repo](#)
+- 🖼️ **Interior Design Website** — React + BootStrap  
+  [🔗 Live Demo](http://classy-kataifi-683ef4.netlify.app/) | [💻 Repo](#)
 
-- 📊 **Dashboard UI** — React + Redux  
-  [🔗 Live Demo](#) | [💻 Repo](#)
+- 📊 **Restaurant Website** — React + BootStrap   
+  [🔗 Live Demo](http://chic-rugelach-a4e784.netlify.app/) | [💻 Repo](#)
 
 ---
 
